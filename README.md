@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lvn-nguyenanninh
+- 👋 Hi, I’m nguyenanninh
 
 <!---
 lvn-nguyenanninh/lvn-nguyenanninh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
